@@ -20,3 +20,8 @@ bin/*
 !bin/.gitkeep
 models/*
 !models/.gitkeep
+
+# Seguranca - auditoria automatica
+credentials.*
+*.p12
+*.pfx
